@@ -27,3 +27,4 @@
   - Uses `--hotswap` flag by default
   - To disable hotswap use `cdk watch --no-hotswap`
   - Adjust what files to watch and what to be excluded from watch, modify `cdk.json`
+    - To include any lambda code change, remove *.js entry fromm `cdk.json` so any change to lambda code can be immediately deployed with hotswap 
