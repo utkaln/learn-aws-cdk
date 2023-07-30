@@ -5,7 +5,8 @@
 - Pre-requisites:
   - Node
   - AWS CLI
- 
+
+ - Detailed Steps Here [[basics-instructions.md]]
 
 ## CDK - Build SDK via Terraform using Typescript language
 * Create AWS Infrastructure using Terraform written in TypeScript langugage using CDK tool provided by AWS
