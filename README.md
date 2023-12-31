@@ -1,7 +1,8 @@
 # learn-aws-cdk
 
 ## Tools used
-- Jenkins Image for CD from AWS AMI Marketplace: https://aws.amazon.com/marketplace/pp/prodview-ywvglhsjiahkk?sr=0-10&ref_=beagle&applicationId=AWS-Marketplace-Console  
+- Jenkins Image for CD from AWS AMI Marketplace: https://aws.amazon.com/marketplace/pp/prodview-ywvglhsjiahkk?sr=0-10&ref_=beagle&applicationId=AWS-Marketplace-Console
+- [Detailed-Steps-Jenkins-Install](https://github.com/utkaln/learn-aws-cdk/edit/main/steps-install-jenkins.md)
 
 ## CDK - Build Cloud Formation using Typescript language
 - Official Documentation [Here](https://cdkworkshop.com/20-typescript.html)
