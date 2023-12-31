@@ -4,4 +4,8 @@
 
 
 ## Install in AWS Console
-- 
+- Choose EC2 type: `t3a.small` for lowest cost (Dec 2023) and Launch with default vpc, subnet and security group
+- user id: `user`
+- To get the password : Go to instance in EC2 console > Actions > Monitor and Troubleshoot > Get System Log 
+- Copy the public IP and that should prompt the Jenkins login page
+
